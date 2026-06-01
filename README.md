@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nipuna Lankara 👋
 
-<!--
-**NipunaLankara/NipunaLankara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Fullstack Developer
 
-Here are some ideas to get you started:
+I am a Software Engineering graduate with a BSc (Hons) in Software Engineering from Cardiff Metropolitan University. I am passionate about backend development, frontend development software architecture, API engineering, and building scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+### 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/nipuna-lankara-6a43b2323](http://www.linkedin.com/in/nipuna-lankara-6a43b2323)
+* Portfolio: https://nipunalankara.netlify.app/
+* Email: [nipunalankara@gmail.com](mailto:nipunalankara@gmail.com)
+
