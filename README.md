@@ -1,17 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a1a3e,100:0d1117&height=200&section=header&text=Nipuna%20Lankara&fontColor=e0aaff&fontSize=55&fontAlignY=55&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20Backend%20%7C%20Cloud%20%7C%20AI&descSize=18&descAlignY=75&descFontColor=c77dff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1a,50:0d2137,100:0a1628&height=200&section=header&text=Nipuna%20Lankara&fontColor=7dd3fc&fontSize=55&fontAlignY=55&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20Backend%20%7C%20Cloud%20%7C%20AI&descSize=18&descAlignY=75&descFontColor=38bdf8" width="100%"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nipuna-lankara-6a43b2323"><img src="https://img.shields.io/badge/-LinkedIn-e0aaff?style=flat-square&logo=linkedin&logoColor=0a0a0f"/></a>
+  <a href="https://www.linkedin.com/in/nipuna-lankara-6a43b2323"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://nipunalankara.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-c77dff?style=flat-square&logo=google-chrome&logoColor=0a0a0f"/></a>
+  <a href="https://nipunalankara.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:nipunalankara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-9d4edd?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nipunalankara@gmail.com"><img src="https://img.shields.io/badge/Gmail-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=NipunaLankara&style=flat-square&color=7b2d8b&label=visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=NipunaLankara&style=for-the-badge&color=0ea5e9&label=Profile+Views"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&multiline=false&width=650&lines=const+dev+%3D+new+FullStackEngineer(%22Nipuna%22)%3B;dev.focus(%22Spring+Boot+%2B+React+%2B+AWS%22)%3B;dev.explore(%22Docker+%7C+ML+%7C+Microservices%22)%3B;dev.status+%3D+%22Open+to+Opportunities+%E2%9C%85%22%3B" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&lines=const+dev+%3D+new+FullStackEngineer(%22Nipuna%22)%3B;dev.focus(%22Spring+Boot+%2B+React+%2B+AWS%22)%3B;dev.explore(%22Docker+%7C+ML+%7C+Microservices%22)%3B;dev.status+%3D+%22Open+to+Opportunities+%E2%9C%85%22%3B" alt="Typing SVG"/>
 </p>
 
 ---
@@ -111,30 +111,34 @@ const nipuna: Engineer = {
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NipunaLankara&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NipunaLankara&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=38bdf8&icon_color=7dd3fc&text_color=e0f2fe&bg_color=0d1117"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunaLankara&layout=donut&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunaLankara&layout=donut&theme=github_dark&hide_border=true&title_color=38bdf8&text_color=e0f2fe&bg_color=0d1117"/>
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=NipunaLankara&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
+<div align="center">
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=NipunaLankara&theme=dark&hide_border=true&background=0D1117&stroke=38bdf8&ring=0ea5e9&fire=7dd3fc&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=e0f2fe&sideNums=e0f2fe&dates=7dd3fc" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NipunaLankara&bg_color=0d0117&color=c77dff&line=9d4edd&point=e0aaff&area=true&area_color=7b2d8b30&hide_border=true" width="92%"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NipunaLankara&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=7dd3fc&area=true&area_color=0ea5e920&hide_border=true" width="92%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NipunaLankara&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NipunaLankara&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 ---
@@ -163,6 +167,6 @@ const nipuna: Engineer = {
 
 *⭐ If you find my work interesting, consider starring some repos — it means a lot!*
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a3e,100:0a0a0f&height=120&section=footer&fontColor=e0aaff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0a0f1a&height=120&section=footer&fontColor=7dd3fc&animation=fadeIn" width="100%"/>
 
 </div>
