@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Software+Engineer;Backend+Developer;Spring+Boot+Developer;React+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 # Hi, I'm Nipuna Lankara 👋
 
 ### Software Engineer | Fullstack Developer
