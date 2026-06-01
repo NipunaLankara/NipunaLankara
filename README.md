@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Software+Engineer;Backend+Developer;Spring+Boot+Developer;React+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=NipunaLankara&label=Profile+Views&color=blue)
+
 # Hi, I'm Nipuna Lankara 👋
 
 ### Software Engineer | Fullstack Developer
@@ -23,6 +25,18 @@ I am a Software Engineering graduate with a BSc (Hons) in Software Engineering f
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+![Nipuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=NipunaLankara&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NipunaLankara&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NipunaLankara&layout=compact&theme=tokyonight)
 
 ### 📫 Connect With Me
 
