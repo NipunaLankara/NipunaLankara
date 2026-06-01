@@ -1,180 +1,168 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a1a3e,100:0d1117&height=200&section=header&text=Nipuna%20Lankara&fontColor=e0aaff&fontSize=55&fontAlignY=55&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20Backend%20%7C%20Cloud%20%7C%20AI&descSize=18&descAlignY=75&descFontColor=c77dff" width="100%"/>
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nipuna%20Lankara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Explorer&descAlignY=55&descSize=16" width="100%"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nipuna-lankara-6a43b2323"><img src="https://img.shields.io/badge/-LinkedIn-e0aaff?style=flat-square&logo=linkedin&logoColor=0a0a0f"/></a>
+  &nbsp;
+  <a href="https://nipunalankara.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-c77dff?style=flat-square&logo=google-chrome&logoColor=0a0a0f"/></a>
+  &nbsp;
+  <a href="mailto:nipunalankara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-9d4edd?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=NipunaLankara&style=flat-square&color=7b2d8b&label=visitors"/>
+</p>
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;⚙️+Spring+Boot+%7C+React+%7C+Node.js;☁️+AWS+Cloud+%7C+Docker+%7C+Microservices;🤖+Machine+Learning+%7C+Python+%7C+AI;🏗️+Building+Scalable+Software+Solutions;💡+Turning+Ideas+into+Production-Ready+Code" alt="Typing SVG"/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=NipunaLankara&label=Profile+Views&color=00f5d4&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/NipunaLankara?label=Followers&style=for-the-badge&color=a855f7&labelColor=0d0d0d" alt="followers"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&multiline=false&width=650&lines=const+dev+%3D+new+FullStackEngineer(%22Nipuna%22)%3B;dev.focus(%22Spring+Boot+%2B+React+%2B+AWS%22)%3B;dev.explore(%22Docker+%7C+ML+%7C+Microservices%22)%3B;dev.status+%3D+%22Open+to+Opportunities+%E2%9C%85%22%3B" alt="Typing SVG"/>
 </p>
 
 ---
 
-<!-- ABOUT -->
-### 👨‍💻 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```yaml
-name       : Nipuna Lankara
-location   : Sri Lanka 🇱🇰
-degree     : BSc (Hons) Software Engineering — Cardiff Metropolitan University
-focus      : Backend Development · Cloud Architecture · ML Applications
-currently  : Exploring AWS · Microservices · System Design
-available  : Open to Opportunities ✅
+### 🧬 Who Am I?
+
+```typescript
+interface Engineer {
+  name:      string;
+  role:      string[];
+  location:  string;
+  education: string;
+  status:    string;
+}
+
+const nipuna: Engineer = {
+  name:      "Nipuna Lankara",
+  role:      [
+    "Full-Stack Developer",
+    "Backend Enthusiast",
+    "Cloud & ML Explorer",
+  ],
+  location:  "Sri Lanka 🇱🇰",
+  education: "BSc (Hons) Software Eng.",
+  status:    "Open to Opportunities ✅",
+};
 ```
 
+</td>
+<td width="45%" valign="top">
+
+### 📡 Currently On
+
+- 🔭 &nbsp; Building **scalable backend systems**
+- 🌩️ &nbsp; Learning **AWS** cloud services
+- 🐳 &nbsp; Containerizing with **Docker**
+- 🤖 &nbsp; Exploring **Machine Learning**
+- 🏗️ &nbsp; Deep-diving **Microservices**
+- 📐 &nbsp; Studying **System Design**
+- ⚡ &nbsp; Always shipping **side projects**
+
+</td>
+</tr>
+</table>
+
 ---
 
-</div>
+## ⚡ Tech Arsenal
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Languages
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
+### Core Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🎨 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+### Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ⚙️ Backend
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ☁️ Cloud · DevOps · Containers
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🤖 Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### 🤖 AI & Machine Learning
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Tools
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NipunaLankara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5d4&icon_color=a855f7&text_color=ffffff&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunaLankara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5d4&text_color=ffffff"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=NipunaLankara&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00f5d4&ring=a855f7&fire=f97316&currStreakLabel=00f5d4"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NipunaLankara&theme=tokyo-night&bg_color=0d0d0d&color=00f5d4&line=a855f7&point=f97316&hide_border=true&area=true&area_color=00f5d420" width="95%"/>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NipunaLankara&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</div>
-
----
-
-## 🚀 Featured Projects
+## 📊 Stats
 
 <div align="center">
 
-<a href="https://github.com/NipunaLankara">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NipunaLankara&repo=Moodlyze&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f5d4&icon_color=a855f7&text_color=ffffff"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NipunaLankara&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunaLankara&layout=donut&theme=midnight-purple&hide_border=true"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=NipunaLankara&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
 
-| 🎯 Project | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| **🧠 Moodlyze** | AI-powered task management & emotion analysis platform | `Spring Boot` `React` `Python` `ML` `MySQL` |
-| **🌐 Portfolio** | Responsive developer portfolio with animations | `React.js` `CSS3` `Netlify` |
-| **📅 Event Manager** | Full-stack event planning & registration system | `Express.js` `MongoDB` `Node.js` |
+<br/><br/>
 
----
-
-## 🌱 Currently Exploring
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ☁️  AWS Cloud Services & Architecture                     │
-│   🐳  Docker · Kubernetes · Container Orchestration         │
-│   🏗️  Microservices Design Patterns                         │
-│   🤖  Machine Learning & AI Integration                     │
-│   📐  System Design & Software Architecture                 │
-│   ⚡  Modern Backend Development Practices                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NipunaLankara&bg_color=0d0117&color=c77dff&line=9d4edd&point=e0aaff&area=true&area_color=7b2d8b30&hide_border=true" width="92%"/>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NipunaLankara&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
+
+---
+
+## 🚀 Projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipuna-lankara-6a43b2323)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f5d4?style=for-the-badge&logo=google-chrome&logoColor=black)](https://nipunalankara.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunalankara@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NipunaLankara)
+| &nbsp; | Project | Description | Stack |
+|:---:|:---|:---|:---|
+| 🧠 | **Moodlyze** | AI-powered task & emotion analysis platform with ML sentiment engine | `Spring Boot` `React` `Python` `MySQL` `ML` |
+| 🌐 | **Portfolio** | Animated personal portfolio to showcase skills & projects | `React.js` `CSS3` `Netlify` |
+| 📅 | **Event Manager** | Full-stack event planning, registration & management system | `Node.js` `Express` `MongoDB` |
 
 </div>
 
 ---
 
-<!-- ANIMATED FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+### 🐍 Contribution Snake
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+you+like+them!" alt="footer typing"/>
+![Snake dark](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+*⭐ If you find my work interesting, consider starring some repos — it means a lot!*
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a3e,100:0a0a0f&height=120&section=footer&fontColor=e0aaff&animation=fadeIn" width="100%"/>
 
 </div>
